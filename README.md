@@ -1,6 +1,5 @@
 # Gyeomyi Hwang (Austin)
-Hi there,I'm **Front-End Developer**, mainly using **ReactJS & NextJS** 👋
-
+Hi there,I'm **Front-End Developer**, mainly using **NextJS** the most 👋
 
 ## Skills
 ### Front-End
@@ -10,6 +9,8 @@ Hi there,I'm **Front-End Developer**, mainly using **ReactJS & NextJS** 👋
  <li>Javascript</li>
  <li>ReactJS</li>
  <li>NextJS</li>
+ <li>Redux Toolkit</li>
+ <li>Zustand</li>
 </ul>
 
 ### Back-End
@@ -19,13 +20,14 @@ Hi there,I'm **Front-End Developer**, mainly using **ReactJS & NextJS** 👋
   <li>MongoDB</li>
 </ul>
 
-### Version Management
 
-
-## What I study
-### Front-End
+## What I am studying
 <ul>
   <li>TypeScript</li>
+  <li>Redux</li>
+  <li>GraphQL</li>
+  <li>React Native</li>
+  <li>Will be added..XD</li>
 </ul>
 
 <!--
