@@ -11,23 +11,17 @@ Hi there,I'm **Front-End Developer**, mainly using **NextJS** the most 👋
  <li>NextJS</li>
  <li>Redux Toolkit</li>
  <li>Zustand</li>
+ <li>TypeScript</li>
+
+ <li>React Native</li>
 </ul>
 
 ### Back-End
 <ul>
   <li>NodeJS</li>
+  <li>GraphQL</li>
   <li>Express.js</li>
   <li>MongoDB</li>
-</ul>
-
-
-## What I am studying
-<ul>
-  <li>TypeScript</li>
-  <li>Redux</li>
-  <li>GraphQL</li>
-  <li>React Native</li>
-  <li>Will be added..XD</li>
 </ul>
 
 <!--
