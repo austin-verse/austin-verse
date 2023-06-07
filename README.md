@@ -7,19 +7,17 @@ Hi there,I'm **Front-End Developer**, mainly using **NextJS** the most 👋
  <li>HTML</li>
  <li>CSS</li>
  <li>Javascript</li>
+ <li>TypeScript</li>
  <li>ReactJS</li>
  <li>NextJS</li>
  <li>Redux Toolkit</li>
  <li>Zustand</li>
- <li>TypeScript</li>
-
- <li>React Native</li>
+ <li>Framer Motion</li>
 </ul>
 
 ### Back-End
 <ul>
   <li>NodeJS</li>
-  <li>GraphQL</li>
   <li>Express.js</li>
   <li>MongoDB</li>
 </ul>
