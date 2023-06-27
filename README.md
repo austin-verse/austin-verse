@@ -13,6 +13,7 @@ Hi there,I'm **Front-End Developer**, mainly using **NextJS** the most 👋
  <li>Redux Toolkit</li>
  <li>Zustand</li>
  <li>Framer Motion</li>
+ <li>Tailwind CSS</li>
 </ul>
 
 ### Back-End
