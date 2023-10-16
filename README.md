@@ -10,6 +10,7 @@ Hi there,I'm **Front-End Developer**, mainly using **NextJS** the most 👋
  <li>TypeScript</li>
  <li>ReactJS</li>
  <li>NextJS</li>
+ <li>React Query</li>
  <li>Redux</li>
  <li>Redux Toolkit</li>
  <li>Zustand</li>
